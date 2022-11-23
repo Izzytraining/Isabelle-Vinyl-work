@@ -1,0 +1,14 @@
+
+html {background-color: black;}
+header {background-image: url(Records.jpg); background-size: cover; height: 230px; text-align: justify; text-decoration-thickness: 80px;}
+h1 {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 100px; text-align: center;}
+h2 {background-color:#ef8354; text-align: center; font-size: 25px; font-weight: bold;}
+p {text-align: left; font-size: 16px;}
+#selection {color: white;}
+h3 {background-color:#0e7c7b; text-align: center; font-size: 25px; font-weight: bold;}
+#vinyl {background-color: black; color: white; font-size: 20px; text-align: left;}
+h4 {background-color: none; text-align: left; font-weight: bold; font-size: 20px;} 
+#selling {background-color: #0e7c7b; color: white;}
+#facebook {color: #ef8354;}
+#facebook :hover {color: #9c528b;}
+#live {background-color: #9c528b;}
